@@ -1,0 +1,190 @@
+body{ 
+  background-color: #F9E0BB;;
+}
+.container
+{
+  border-radius: 0%;
+}
+.navbar{
+  padding:15px; 
+  border-radius: 0%;
+  color: #F7A071; 
+  background-color: white;
+  border: 0px;
+}
+.navbar-inverse .navbar-brand{
+  font-family: 'Satisfy', cursive;
+  font-size: 2.5em;
+  color: #F7A071; 
+  font-weight: bold;
+}
+.navbar-inverse .navbar-brand:hover {
+  color: #F7A071;
+}
+.navbar-inverse .navbar-brand:focus {
+  color: #F7A071;
+}
+.navbar-inverse .navbar-toggle .icon-bar{
+  background-color: #F7A071;
+  border-color: #fff;
+}
+.navbar-inverse .navbar-toggle{
+  border-color:#fff;
+}
+.navbar-inverse .navbar-toggle:hover{
+  background-color: #fff;;
+  color:#fff;
+}
+
+.navbar-inverse .navbar-collapse{
+  border-color: #F7A071;
+}
+
+.navbar-right{
+  color: #F7A071;
+}
+
+.add-note{
+color: #F7A071;
+font-family: 'Satisfy', cursive;
+font-size: 20px;
+padding: 10px;
+}
+.add-note a{
+  color:#F7A071;
+}
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.note{
+  max-width: 500px;
+  height: auto;
+  padding: 30px;
+  border: 0px;
+  margin:0.5em;
+  background-color: white;
+  color: #6A88E7;
+  box-shadow: 2px 5px 10px #F7A071;
+ 
+}
+
+a{
+  text-decoration: none;
+  color:white;
+}
+
+a:visited{
+  text-decoration: none;
+  color:#F7A071;
+}
+
+a:hover{
+  text-decoration: none;
+  color:#F7A071;
+  cursor: pointer;
+}
+
+.edit-note{
+  max-width: 500px;
+  height: auto;
+  margin: 10px;
+}
+
+.btn{
+  border-radius: 0%;
+  margin: 0.1em;
+  border: 0;
+  border: 0px;
+}
+.btn-primary{
+  border: 0px;
+}
+
+.remove-note{
+  text-align: right;
+  color: #ff2626;
+  cursor: pointer;
+}
+
+.edit-a{
+  background-color: #6A88E7;
+  padding: 0.5em;
+  width: inherit;
+  display: block;
+  text-align: center;
+}
+
+.edit-a:hover{
+  color:white;
+}
+
+.comment{
+  color: #5a5a5a;;
+  margin: 10px;
+  padding: 10px;
+  font-family: 'Farsan', cursive;
+  font-size: 20px;
+}
+
+
+
+.navbar-brand:hover{
+  color:#F7A071;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
