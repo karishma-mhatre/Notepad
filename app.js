@@ -82,7 +82,7 @@
                 <nav className="navbar navbar-expand-lg navbar-inverse">
                   <div className= "container-fluid">
                     <div className="navbar-header">
-                        <a href="#" className="navbar-brand">My Notebook</a>
+                        <a href="#" className="navbar-brand">My Notepad</a>
                         <button className="navbar-toggle" data-toggle="collapse" data-target="#navbarSupportedContent">
                           <span className="icon-bar"></span>
                           <span className="icon-bar"></span>
